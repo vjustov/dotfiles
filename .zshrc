@@ -1,0 +1,1 @@
+/home/vjustov/dotmatrix/.zshrc
