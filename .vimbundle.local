@@ -1,2 +1,5 @@
 scrooloose/nerdtree
 terryma/vim-multiple-cursors
+tomtom/tlib_vim
+MarcWeber/vim-addon-mw-utils
+garbas/vim-snipmate
