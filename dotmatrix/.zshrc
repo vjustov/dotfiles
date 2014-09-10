@@ -94,6 +94,7 @@ alias mv='nocorrect mv'       # no spelling correction on mv
 alias cp='nocorrect cp'
 alias mkdir='nocorrect mkdir'
 alias rspec='nocorrect rspec'
+alias ls='ls --color'
 alias ll="ls -l"
 alias la="ls -a"
 alias l.='ls -ld .[^.]*'
