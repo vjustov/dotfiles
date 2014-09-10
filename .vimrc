@@ -1,1 +1,0 @@
-/home/vjustov/dotmatrix/.vimrc
