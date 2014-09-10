@@ -3,9 +3,6 @@ if exists('g:loaded_pathogen')
   execute pathogen#infect('~/.vimbundles/{}', '~/.vim/bundle/{}')
 endif
 
-syntax enable
-colorscheme github
-
 filetype plugin on
 filetype plugin indent on
 
@@ -34,7 +31,3 @@ augroup END
 if filereadable(expand('~/.vimrc.local'))
   source ~/.vimrc.local
 endif
-
-" Custom Bindings
-map <C-/> :NERDTreeToggle<CR>
-set nu
